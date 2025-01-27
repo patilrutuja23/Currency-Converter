@@ -2,10 +2,17 @@
 
 Currency Converter Web App built using HTML, CSS, and JavaScript, utilizing the FreeCurrency API for real-time exchange rates.
 <br>
-
-# Tech Stack
+Check it out here 👇:
 <br>
-**Frontend** : HTML for structure, CSS for styling, and JavaScript for functionality.
+https://currency-converter-web-app-tocheck.netlify.app/
+<br>
+
+# Tech Stack:
+**JavaScript**: Handles the logic for fetching data from the OpenWeather API and displaying it dynamically.
+<br>
+**CSS**: Provides styling for a clean and responsive UI.
+<br>
+**HTML**: Structures the webpage with necessary elements like search input, weather details, and error messages.
 <br>
 **API** : FreeCurrency API for fetching live exchange rates.
 <br>
